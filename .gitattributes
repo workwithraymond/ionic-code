@@ -1,0 +1,6 @@
+1 filter=lfs diff=lfs merge=lfs -text
+/ionic filter=lfs diff=lfs merge=lfs -text
+C:/Users/Owner/Downloads/ionic+code filter=lfs diff=lfs merge=lfs -text
+C:/Users/Owner/Downloads/ionic+code filter=lfs diff=lfs merge=lfs -text
+*.psd filter=lfs diff=lfs merge=lfs -text
+*.file filter=lfs diff=lfs merge=lfs -text
